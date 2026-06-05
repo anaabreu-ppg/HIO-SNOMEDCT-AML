@@ -11,10 +11,10 @@ https://bioportal.bioontology.org/ontologies/HIO
 ### SNOMED CT
 
 Available at:
-https://www.snomed.org
+[https://www.snomed.org] (https://www.nlm.nih.gov/healthit/snomedct/archive.html)
 
 Version used:
-SNOMED CT International Release 2024-09
+SNOMED CT International Release 2025-09
 
 ## Alignment Tool
 
@@ -31,4 +31,4 @@ https://github.com/AgreementMakerLight/AML-Project
 
 ## Reproducibility
 
-Researchers may obtain the ontologies from their official sources and reproduce the experiments using the configuration described above.
+Researchers may obtain the ontologies from their respective official providers and reproduce the experiments using the configuration described above, subject to compliance with all applicable licensing agreements, registration procedures, institutional requirements, and governmental regulations related to the access and use of the referenced resources.
