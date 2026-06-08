@@ -140,11 +140,6 @@ Examples include:
 
 AML also enables detailed inspection of each identified mapping, supporting the analysis of concept-level correspondences and confidence values generated during the matching process.
 
-### Experimental Interface
-
-The figure below illustrates the ontology alignment experiment performed using AgreementMakerLight (AML), resulting in the identification of 39 valid semantic mappings between HIO and SNOMED CT.
-
-> Figure 1. Ontology alignment interface in AgreementMakerLight (AML).
 
 ---
 
